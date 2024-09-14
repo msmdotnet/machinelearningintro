@@ -1,7 +1,58 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
+/* Estilos básicos para el cuerpo de la página */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
 
-@import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
+/* Estilos para el encabezado */
+header {
+  background: #333;
+  color: #fff;
+  padding: 10px 0;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+/* Estilos para la navegación */
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+/* Estilos para el contenido principal */
+main {
+  padding: 20px;
+}
+
+/* Estilos para el pie de página */
+footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
