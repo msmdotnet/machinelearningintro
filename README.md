@@ -1,7 +1,3 @@
----
-urlnext: "/content/t001"
-urlnexttitle: "¿Qué es Machine Learning?"
----
 # Introducción a Machine Learning
 ¿Qué es Machine Learning? ¿Qué son los modelos? ¿Qué significa entrenar un modelo? ¿La creación de modelos es un trabajo de un desarrollador tradicional de programas? Esas son algunas de las preguntas que me surgieron la primera que vez que escuche sobre *Machine Learning*.
 
