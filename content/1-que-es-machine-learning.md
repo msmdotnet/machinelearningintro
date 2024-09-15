@@ -1,5 +1,6 @@
 ---
 previousurl: "/"
+nexturl: "/content/2-modelos-de-machine-learning"
 ---
 # ¿Qué es Machine Learning?
 El *Machine Learning* (*aprendizaje automático*) es una rama de la inteligencia artificial que permite a las computadoras aprender y hacer predicciones o tomar decisiones basadas en datos, sin ser explícitamente programadas para realizar una tarea específica. En lugar de seguir instrucciones predefinidas, los algoritmos de *machine learning* identifican patrones y relaciones en grandes conjuntos de datos, y utilizan estos patrones para hacer inferencias y mejorar su rendimiento con el tiempo.
