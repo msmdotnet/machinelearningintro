@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+    <div class="headercontainer">
+      <span></span>
+      <a class="site-title" rel="author" href="{{ "/content/t001" | relative_url }}">¿Qué es Machine Learning?</a>
+    </div>    
+  </div>
+</header>
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
