@@ -20,9 +20,12 @@ body {
     
 }
 
-h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
+h1, h2, h3, h4, h5, h6, blockquote, pre, ul, ol, dl, figure, .highlight {
     margin-top:32px;
-    margin-bottom: 15px
+    margin-bottom: 16px
+}
+p {
+    margin-bottom: 16px;
 }
 
 main {
