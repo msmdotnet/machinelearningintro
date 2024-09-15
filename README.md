@@ -5,8 +5,7 @@ Si buscamos información acerca de *Machine Learning* podemos notar que la mayor
 
 Uno de los cursos gratuitos de *Microsoft* sobre el tema de *Machine Learning* es el siguiente:
 
-**Introduction to machine learning**<br/>
-<a href="https://learn.microsoft.com/training/modules/introduction-to-machine-learning/" target="_blank">https://learn.microsoft.com/training/modules/introduction-to-machine-learning/</a>
+<a href="https://learn.microsoft.com/training/modules/introduction-to-machine-learning/" target="_blank">Introduction to machine learning</a>
 
 El entrenamiento totalmente interactivo está basado en *Python*, las personas que tengan conocimientos en *Python* y quieran conocer los conceptos de *Machine Learning*, ese entrenamiento es altamente recomendado.
 
@@ -36,7 +35,7 @@ Los desarrolladores que no utilizan *Visual Studio* podrán realizar los ejercic
 
 **NOTA**: El contenido de este entrenamiento se irá incorporado conforme se vaya avanzando en el webinar del mismo. Puede accederse a los videos grabados de las sesiones en el siguiente enlace:
 
-[Lista de reproducción de videos de la versión webinar de este entrenamiento.](https://www.youtube.com/playlist?list=PLsi0_y2gnnl7vq4kRG6Sorw05BZC6LBBj)
+<a href="https://www.youtube.com/playlist?list=PLsi0_y2gnnl7vq4kRG6Sorw05BZC6LBBj" target="_blank">Lista de reproducción de videos de la versión webinar de este entrenamiento.</a>
 
 ## Contenido
 * [¿Qué es Machine Learning?](https://msmdotnet.github.io/machinelearningintro/content/1-que-es-machine-learning)
