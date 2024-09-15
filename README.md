@@ -33,7 +33,7 @@ Puede utilizarse la versión gratuita *Visual Studio Community*.
 
 Los desarrolladores que no utilizan *Visual Studio* podrán realizar los ejercicios utilizando el *SDK de .NET* y *Visual Studio Code* o el editor de su preferencia.
 
-**NOTA**: El contenido de este entrenamiento se irá incorporado conforme se vaya avanzando en el webinar del mismo. Puede accederse a los videos grabados de las sesiones en el siguiente enlace:
+**NOTA**: El contenido de este entrenamiento se encuentra en construcción. Más contenido se irá incorporado conforme se vaya avanzando en el webinar del mismo. Puede accederse a los videos grabados de las sesiones en el siguiente enlace:
 
 <a href="https://www.youtube.com/playlist?list=PLsi0_y2gnnl7vq4kRG6Sorw05BZC6LBBj" target="_blank">Lista de reproducción de videos de la versión webinar de este entrenamiento.</a>
 
