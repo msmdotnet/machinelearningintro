@@ -1,3 +1,6 @@
+---
+previousurl: "/content/1-que-es-machine-learning"
+---
 # Modelos de machine learning
 Los modelos de aprendizaje automático (*machine learning*) son algoritmos informáticos que usan datos para realizar estimaciones (suposiciones fundamentadas) o tomar decisiones. Los modelos de aprendizaje automático se diferencian de los algoritmos tradicionales en su diseño. Cuando es necesario mejorar un software de equipo tradicional, las personas lo editan. Por el contrario, un algoritmo de aprendizaje automático usa los datos para ser más eficaz al realizar una tarea específica.
 
