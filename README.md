@@ -35,9 +35,5 @@ Puede utilizarse la versión gratuita *Visual Studio Community*.
 Los desarrolladores que no utilizan *Visual Studio* podrán realizar los ejercicios utilizando el *SDK de .NET* y *Visual Studio Code* o el editor de su preferencia.
 
 ## Contenido
-<ul>
-  <li>
-     [¿Qué es Machine Learning?](https://msmdotnet.github.io/machinelearningintro/content/1-que-es-machine-learning)
-  </li>
-</ul>
+* [¿Qué es Machine Learning?](https://msmdotnet.github.io/machinelearningintro/content/1-que-es-machine-learning)
 
