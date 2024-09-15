@@ -1,5 +1,5 @@
 # Introducción a Machine Learning
-¿Qué es Machine Learning? ¿Qué son los modelos? ¿Qué significa entrenar un modelo? ¿La creación de modelos es un trabajo de un desarrollador tradicional de programas? Esas son algunas de las preguntas que me surgieron la primera que vez que escuche sobre *Machine Learning*.
+¿Qué es *Machine Learning*? ¿Qué son los *modelos*? ¿Qué significa *entrenar un modelo*? ¿La creación de *modelos* es un trabajo de un desarrollador tradicional de programas? Esas son algunas de las preguntas que me surgieron la primera que vez que escuche sobre *Machine Learning*.
 
 Si buscamos información acerca de *Machine Learning* podemos notar que la mayor parte de la información y ejemplos están basados en *Python* y *R*, no existe mucha información utilizando *C#*.
 
@@ -16,7 +16,7 @@ Este entrenamiento ofrece una introducción al *Aprendizaje Automático* (*Machi
 
 Los participantes aprenderán los conceptos esenciales del aprendizaje automático, explorando datos y recorriendo de forma interactiva su ciclo de vida, utilizando C# para entrenar, guardar y aplicar modelos, tal como se realiza en el mundo real.
 
-**Objetivos**
+## Objetivos
 
 Al finalizar este entrenamiento, los participantes tendrán la capacidad para:
 * Describir la diferencia que existe entre los algoritmos de aprendizaje automático y los algoritmos de desarrollo de software tradicional.
@@ -24,7 +24,7 @@ Al finalizar este entrenamiento, los participantes tendrán la capacidad para:
 * Evaluar la funcionalidad de un modelo proporcionándole datos nuevos para predecir resultados.
 * Guardar y crear modelos para utilizarlos en distintas aplicaciones.
 
-**Requisitos**
+## Requisitos
 
 El único requerimiento para poder realizar los ejercicios de este entrenamiento es *Visual Studio 2022* con las siguientes cargas de trabajo:
 * .NET desktop development.
