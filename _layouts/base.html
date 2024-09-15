@@ -8,9 +8,10 @@
       <div class="wrapper">
         
         <div class="headercontainer">
-          <a href="{{ page.previousurl }}"> &lt; Anterior</a>
+         
+          <a href="{{ page.previousurl | relative_url }}"> &lt; Anterior</a>
           {% if page.nexturl %}
-             <a href="{{ page.nexturl }}"> Siguiente  &gt; </a>
+             <a href="{{ page.nexturl | relative_url }}"> Siguiente  &gt; </a>
           {% endif %}
         </div>
 
