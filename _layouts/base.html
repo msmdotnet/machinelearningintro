@@ -8,8 +8,10 @@
       <div class="wrapper">
         
         <div class="headercontainer">
-           <a href="#">Anterior</a>
-           <a href="#">Siguiente</a> 
+          <a href="{{ page.previousurl }}"> &lt; {{ page.previoustitle }}</a>
+          {% if page.nexturl %}
+             <a href="{{ page.nexturl }}"> {{ page.nexttitle }}  &gt; </a>
+          {% endif %}
         </div>
 
         {{ content }}
