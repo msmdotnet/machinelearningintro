@@ -39,4 +39,6 @@ Los desarrolladores que no utilizan *Visual Studio* podrán realizar los ejercic
 
 ## Contenido
 * [¿Qué es Machine Learning?](https://msmdotnet.github.io/machinelearningintro/content/1-que-es-machine-learning)
+* [Modelos de machine learning](https://msmdotnet.github.io/machinelearningintro/content/2-modelos-de-machine-learning)
+  
 
