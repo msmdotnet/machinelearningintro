@@ -15,10 +15,13 @@ body {
     font-kerning: normal;
     display: flex;
     min-height: 100vh;
-    flex-direction: column
+    flex-direction: column;
+    line-height: 160%;
+    
 }
 
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
+    margin-top:32px;
     margin-bottom: 15px
 }
 
