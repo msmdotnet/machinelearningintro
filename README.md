@@ -1,4 +1,4 @@
-# Introducción a Machine Learning
+# Introducción a Machine Learning con C#
 ¿Qué es *Machine Learning*? ¿Qué son los *modelos*? ¿Qué significa *entrenar un modelo*? ¿La creación de *modelos* es un trabajo de un desarrollador tradicional de programas? Esas son algunas de las preguntas que me surgieron la primera que vez que escuche sobre *Machine Learning*.
 
 Si buscamos información acerca de *Machine Learning* podemos notar que la mayor parte de la información y ejemplos están basados en *Python* y *R*, no existe mucha información utilizando *C#*.
