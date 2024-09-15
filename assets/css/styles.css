@@ -13,15 +13,10 @@ body{
     padding: 1.5rem;
 }
 
-.headercontainer {
-  display: flex;
-  justify-content: space-between;
+.page-content {
+    padding: 0px;
 }
 
-.headercontainer a{
-  font-size: 22px; 
-  transition: background-color 0.3s;
-}
 li{
   margin-bottom:10px;
 }
