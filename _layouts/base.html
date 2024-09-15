@@ -7,15 +7,11 @@
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         
-        <div class="headercontainer">
-         
-          <a href="{{ page.previousurl | relative_url }}"> &lt; Anterior</a>
-          {% if page.nexturl %}
-             <a href="{{ page.nexturl | relative_url }}"> Siguiente  &gt; </a>
-          {% endif %}
-        </div>
+        {%- include navbar.html -%}
 
         {{ content }}
+
+        {%- include navbar.html -%}
         
       </div>
     </main>
