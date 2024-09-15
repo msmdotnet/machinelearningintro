@@ -2,7 +2,10 @@
 
   <div class="wrapper">
 
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ page.urlhometitle | escape }}</a>
+    <div class="headercontainer">
+      <a class="site-title" rel="author" href="{{ page.urlprevious | relative_url }}">{{ page.urlprevioustitle | escape }}</a>
+      <a class="site-title" rel="author" href="{{ page.urlnext | relative_url }}">{{ page.urlnexttitle | escape }}</a>
+    </div>    
 
     {%- if titles_size > 0 -%}
       <nav class="site-nav">
