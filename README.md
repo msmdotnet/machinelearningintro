@@ -34,6 +34,9 @@ Puede utilizarse la versión gratuita *Visual Studio Community*.
 
 Los desarrolladores que no utilizan *Visual Studio* podrán realizar los ejercicios utilizando el *SDK de .NET* y *Visual Studio Code* o el editor de su preferencia.
 
+**NOTA**: El contenido de este entrenamiento se irá incorporado conforme se vaya avanzando en el webinar del mismo. Puede accederse a los videos grabados de las sesiones en el siguiente enlace:
+[Lista de reproducción de videos de la versión webinar de este entrenamiento.](https://www.youtube.com/playlist?list=PLsi0_y2gnnl7vq4kRG6Sorw05BZC6LBBj)
+
 ## Contenido
 * [¿Qué es Machine Learning?](https://msmdotnet.github.io/machinelearningintro/content/1-que-es-machine-learning)
 
